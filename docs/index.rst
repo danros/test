@@ -11,7 +11,9 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+.. raw:: html
 
+    <i>Raw html</i>
 
 Indices and tables
 ==================
